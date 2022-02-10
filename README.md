@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wingxel
 - 👀 I’m interested in computers.
-- 🌱 I’m currently learning kernel modules.
-- 💞️ I’m looking to collaborate on nothing.
+- 🌱 I’m currently learning kernel modules and device drivers.
+- 💞️ I’m looking to collaborate on any Java, JavaFX, PHP, Python, JavaScript, C++ or C project.
 - 📫 How to reach me @wingxel
 
 <!---
